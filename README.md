@@ -58,7 +58,7 @@ Sigue estos pasos para configurar el entorno de desarrollo utilizando Docker:
 7. **Ejecutar el siguiente comando para acceder al contenedor**:
 
     ```bash
-    docker exec -it laravel_app bash
+    docker exec -it recovo-cims bash
     ```
 
 8. **Una vez dentro del contenedor docker ejecutar**:
